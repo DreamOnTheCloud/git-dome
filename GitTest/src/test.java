@@ -6,7 +6,6 @@ public class test {
         System.out.printf("Hot-fix修改");
         System.out.printf("hotfix test");
         System.out.printf("gitee change");
-
         System.out.printf("github change ");
     }
 }
